@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/Version-1.0-green.svg)](https://github.com/yourusername/acoustic-absorption-predictor)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.18675581)
 [![Live Tool](https://img.shields.io/badge/Live%20Tool-alphaporous.com-orange.svg)](https://alphaporous.com)
 
 > A free, open-access, browser-based tool for predicting sound absorption coefficients of porous materials using seven established acoustic models — no installation, no sign-up required.
@@ -159,7 +159,7 @@ If you use this tool in your research, please cite:
   year        = {2026},
   institution = {University of South Africa (UNISA)},
   note        = {Open-access web tool. Available at: https://alphaporous.com},
-  doi         = {10.5281/zenodo.xxxxxxx}
+  doi         = {10.5281/zenodo.18675581}
 }
 ```
 
